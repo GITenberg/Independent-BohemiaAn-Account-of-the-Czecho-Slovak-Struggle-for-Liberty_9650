@@ -1,5 +1,8 @@
 _repo: Independent-BohemiaAn-Account-of-the-Czecho-Slovak-Struggle-for-Liberty_9650
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nosek, Vladimir
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3115'
     url: http://www.gutenberg.org/2009/agents/3115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9650#Independent-BohemiaAn-Account-of-the-Czecho-Slovak-Struggle-for-Liberty
 gutenberg_bookshelf: Czech
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
